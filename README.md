@@ -36,7 +36,7 @@ The first phase of the project focuses on analyzing the Zomato restaurant datase
 
 The Excel dashboard summarizes the analysis and presents key restaurant-related insights in a visual format.
 
-![Zomato Analytics Dashboard]
+Zomato Analytics Dashboard
 
 <img width="1362" height="772" alt="image" src="https://github.com/user-attachments/assets/2dbe367d-58ce-4143-98f7-de5267d94648" />
 
