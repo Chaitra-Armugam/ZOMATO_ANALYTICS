@@ -4,33 +4,30 @@
 
 Zomato Analytics is a restaurant data analysis project developed as part of the Exceler Data Analyst Project.
 
-The project uses Microsoft Excel to analyze restaurant data and create an interactive dashboard covering restaurant distribution, restaurant openings, ratings, pricing, cuisines, and restaurant services.
+The project uses Microsoft Excel to analyze restaurant data and create a dashboard covering restaurant distribution, restaurant openings, ratings, pricing, cuisines, and restaurant services.
 
 ## Week 1 — Excel Dashboard
 
-The first phase of the project focuses on analyzing the Zomato restaurant dataset using Microsoft Excel and developing the **Zomato Analytics Dashboard**.
+The first phase of the project focuses on analyzing the Zomato restaurant dataset using Microsoft Excel and developing the Zomato Analytics Dashboard.
 
 ### Analysis Performed
 
-1. Country Map Table
-2. Calendar Table using Datekey
-3. Number of Restaurants by City and Country
-4. Number of Restaurants Opening by Year, Quarter and Month
-5. Number of Restaurants by Average Rating
-6. Restaurant Distribution by Average Price
-7. Percentage of Restaurants Based on Table Booking
-8. Percentage of Restaurants Based on Online Delivery
-9. Analysis based on Cuisines, City and Ratings
+- Country and city-wise restaurant analysis
+- Restaurant openings by year, quarter and month
+- Restaurant distribution based on average ratings
+- Restaurant distribution based on average price
+- Percentage of restaurants with table booking
+- Percentage of restaurants with online delivery
+- Analysis based on cuisines, city and ratings
 
 ### Tools & Techniques
 
 - Microsoft Excel
-- Data Cleaning and Preparation
 - Excel Formulas
 - PivotTables
 - PivotCharts
 - Data Analysis
-- Dashboard Creation
+- Dashboard Design
 
 ## Dashboard
 
@@ -41,7 +38,7 @@ The Excel dashboard summarizes the analysis and presents key restaurant-related 
 
 ## Project Files
 
-- `ZOMATO_ANALYTICS.xlsx` — Complete Excel analysis workbook containing the supporting analysis and dashboard.
+- `ZOMATO_ANALYTICS.xlsx` — Complete Excel workbook containing the analysis and dashboard.
 
 ## Future Project Phases
 
@@ -50,3 +47,4 @@ This project will be expanded in the subsequent phases of the Data Analyst Proje
 - Power BI
 - Tableau
 - SQL
+
