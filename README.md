@@ -43,7 +43,7 @@ Zomato Analytics Dashboard
 
 ## Project Files
 
-- `Zomato_Analytics_Dashboard.xlsx` — Complete Excel analysis workbook containing the supporting analysis and dashboard.
+- `ZOMATO_ANALYTICS.xlsx` — Complete Excel analysis workbook containing the supporting analysis and dashboard.
 
 ## Future Project Phases
 
