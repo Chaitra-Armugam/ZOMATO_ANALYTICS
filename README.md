@@ -81,7 +81,7 @@ The second phase of the project focuses on analyzing the Zomato restaurant datas
 
 The Tableau dashboard provides an interactive visualization of Zomato restaurant data and enables users to explore restaurant trends and insights using interactive filters.
 
-![Zomato Tableau Dashboard]"D:\EXCELR\DATA ANALYST\PROJECT\TABLEAU\ZOMATO_ANALYTICS_TABLEAU_DASHBOARD.png"
+![Zomato Tableau Dashboard]![Zomato Tableau Dashboard](screenshots/ZOMATO_TABLEAU_DASHBOARD.png)
 
 ### Tableau Project Files
 
