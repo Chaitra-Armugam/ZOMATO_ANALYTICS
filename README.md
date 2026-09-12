@@ -88,3 +88,10 @@ The Tableau dashboard provides an interactive visualization of Zomato restaurant
 - `Zomato_Analysis_Tableau.twbx` — Tableau workbook containing the dashboard and analysis.
 - `ZOMATO_ANALYTICS_DASHBOARD.mp4` — Video demonstration of the interactive Tableau dashboard.
 - `Zomato_Analysis_Tableau.pdf` - PDF Format of the Tableau Dashboard.
+
+## Future Project Phases
+
+This project will be expanded in the subsequent phases of the Data Analyst Project:
+
+- Power BI
+- SQL
