@@ -48,3 +48,42 @@ This project will be expanded in the subsequent phases of the Data Analyst Proje
 - Tableau
 - SQL
 
+## Week 2 — Tableau Dashboard
+
+The second phase of the project focuses on analyzing the Zomato restaurant dataset using Tableau and developing an interactive Zomato Analytics Dashboard.
+
+### Analysis Performed
+
+- Country and city-wise restaurant analysis
+- Top 10 cities by restaurant count
+- Top 10 localities by restaurant count
+- Restaurant count by price bucket
+- Top 10 cuisines in India
+- Restaurant distribution based on average ratings
+- Percentage of restaurants with table booking
+- Percentage of restaurants with online delivery
+- Year-wise restaurant analysis
+- Interactive analysis using filters for Country, Year, Online Delivery and Average Rating
+
+### Tools & Techniques
+
+- Tableau
+- Data Visualization
+- Interactive Dashboards
+- Filters and Dashboard Interactivity
+- KPI Cards
+- Bar Charts
+- Pie Charts
+- Line Charts
+- Geographic Analysis
+
+### Tableau Dashboard
+
+The Tableau dashboard provides an interactive visualization of Zomato restaurant data and enables users to explore restaurant trends and insights using interactive filters.
+
+![Zomato Tableau Dashboard]"D:\EXCELR\DATA ANALYST\PROJECT\TABLEAU\ZOMATO_ANALYTICS_TABLEAU_DASHBOARD.png"
+
+### Tableau Project Files
+
+- `ZOMATO_ANALYTICS_DASHBOARD.twbx` — Tableau workbook containing the dashboard and analysis.
+- `ZOMATO_ANALYTICS_DASHBOARD.mp4` — Video demonstration of the interactive Tableau dashboard.
