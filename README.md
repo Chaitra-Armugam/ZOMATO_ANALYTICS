@@ -95,3 +95,19 @@ This project will be expanded in the subsequent phases of the Data Analyst Proje
 
 - Power BI
 - SQL
+
+## Week 3 — Power BI Dashboard
+
+The third phase of the project focuses on analyzing the Zomato restaurant dataset using Power BI and developing an interactive dashboard to present key restaurant insights.
+
+### Power BI Dashboard
+
+The Power BI dashboard provides an interactive visualization of Zomato restaurant data, enabling users to explore key metrics and restaurant trends through interactive filters and visualizations.
+
+![Zomato Power BI Dashboard](screenshots/ZOMATO_POWERBI_DASHBOARD.png)
+
+## Future Project Phases
+
+This project will be expanded in the subsequent phase of the Data Analyst Project:
+
+- SQL
