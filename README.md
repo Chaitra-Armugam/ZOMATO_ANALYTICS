@@ -111,3 +111,74 @@ The Power BI dashboard provides an interactive visualization of Zomato restauran
 This project will be expanded in the subsequent phase of the Data Analyst Project:
 
 - SQL
+
+## Week 4 — MYSQL
+
+## Overview
+
+MySQL was used to perform structured SQL-based analysis on the Zomato restaurant dataset.
+
+The SQL analysis was used to answer business-oriented questions and derive insights from the restaurant data.
+
+### SQL Concepts Used
+
+- SELECT
+- WHERE
+- DISTINCT
+- ORDER BY
+- LIMIT
+- Aggregate Functions
+- GROUP BY
+- HAVING
+- INNER JOIN
+- LEFT JOIN
+- Subqueries
+- Correlated Subqueries
+- CASE Statements
+- Window Functions
+- RANK()
+- ROW_NUMBER()
+- Common Table Expressions (CTEs)
+
+### Analysis Performed
+
+The SQL analysis covered areas such as:
+
+- Restaurant counts
+- City-wise restaurant distribution
+- Country-wise analysis
+- Rating analysis
+- Pricing analysis
+- Cuisine analysis
+- Online delivery analysis
+- Table booking analysis
+- Restaurant rankings
+- Aggregated business metrics
+- Comparative analysis using subqueries and CTEs
+
+The complete SQL queries used for the project are available in the **MySQL** folder.
+
+# 📁 Repository Structure
+
+```text
+ZOMATO_ANALYTICS/
+│
+├── screenshots/
+│   ├── ZOMATO_ANALYTICS_DASHBOARD.png
+│   ├── ZOMATO_ANALYTICS_TABLEAU_DASHBOARD.png
+│   └── ZOMATO_POWERBI_DASHBOARD.png
+│
+├── MySQL/
+│   └── SQL project files
+│
+├── Power BI/
+│   └── ZOMATO_ANALYTICS_POWERBI_DASHBOARD.pbix
+│
+├── Tableau/
+│   ├── ZOMATO_ANALYTICS_TABLEAU_DASHBOARD.twbx
+│   ├── ZOMATO_ANALYTICS_TABLEAU_DASHBOARD.pdf
+│   └── ZOMATO_ANALYTICS_TABLEAU_DASHBOARD.mp4
+│
+├── ZOMATO_PROJECT_DASHBOARD.xlsx
+│
+└── README.md
